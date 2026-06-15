@@ -1,11 +1,8 @@
 <div align="center">
 
-# Olá, eu sou Davi! · Hi, I'm Davi! 👋
+# Hi, I'm Davi! 👋
 
 ### Developer · AI Enthusiast · Computer Vision Specialist
-
-*Desenvolvedor apaixonado por inteligência artificial, visão computacional e soluções inovadoras.*
-*Passionate about AI, computer vision and building innovative solutions.*
 
 [![GitHub followers](https://img.shields.io/github/followers/daviagrm?label=Follow&style=social)](https://github.com/daviagrm)
 ![Profile views](https://komarev.com/ghpvc/?username=daviagrm&color=blueviolet&style=flat)
@@ -14,20 +11,18 @@
 
 ---
 
-## Sobre mim · About me
+## About me
 
-🇧🇷 **PT** — Sou desenvolvedor com foco em **IA e Visão Computacional**, construindo aplicações que vão de detecção de linguagem de sinais em tempo real até sistemas de monitoramento IoT. Atualmente na UEA (Universidade do Estado do Amazonas).
+I'm a developer focused on **AI and Computer Vision**, building applications ranging from real-time sign language detection to IoT monitoring systems. Currently studying at UEA (Amazonas State University).
 
-🇺🇸 **EN** — I'm a developer focused on **AI and Computer Vision**, building applications ranging from real-time sign language detection to IoT monitoring systems. Currently studying at UEA (Amazonas State University).
-
-- 🔭 Trabalhando em / Working on: Computer Vision & AI projects
-- 🌱 Aprendendo / Learning: Deep Learning architectures, LLM integration
-- 📍 Localização / Location: Brazil
-- 📫 Contato / Contact: [dam.eng23@uea.edu.br](mailto:dam.eng23@uea.edu.br)
+- 🔭 Working on: Computer Vision & AI projects
+- 🌱 Learning: Deep Learning architectures, LLM integration
+- 📍 Location: Brazil
+- 📫 Contact: [daviagrm@gmail.com](mailto:daviagrm@gmail.com)
 
 ---
 
-## Stack Tecnológica · Tech Stack
+## Tech Stack
 
 **AI & Machine Learning**
 
@@ -51,45 +46,27 @@
 
 ---
 
-## Projetos em Destaque · Featured Projects
+## Featured Projects
 
 ### 🤖 AI & Computer Vision
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [ActionDetectionforSignLanguage](https://github.com/daviagrm/ActionDetectionforSignLanguage) | Estimação de linguagem de sinais com LSTM Neural Network · Sign language estimation with LSTM NN | `TensorFlow` `Keras` `LSTM` `Deep Learning` |
-| [DactilusBackend](https://github.com/daviagrm/DactilusBackend) | Detecção de ASL em tempo real com Mediapipe · Real-time ASL detection with Mediapipe | `Mediapipe` `OpenCV` `Python` |
-| [yolo-bosch-traffic-lights](https://github.com/daviagrm/yolo-bosch-traffic-lights) | Detecção de semáforos com YOLOv3/v5 · Traffic light detection with YOLO | `YOLO` `Object Detection` `Jupyter` |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [ActionDetectionforSignLanguage](https://github.com/daviagrm/ActionDetectionforSignLanguage) | Sign language estimation using LSTM Neural Network built on TF Keras | `TensorFlow` `Keras` `LSTM` `Deep Learning` |
+| [DactilusBackend](https://github.com/daviagrm/DactilusBackend) | Real-time American Sign Language detection using Mediapipe and Python | `Mediapipe` `OpenCV` `Python` |
+| [yolo-bosch-traffic-lights](https://github.com/daviagrm/yolo-bosch-traffic-lights) | Traffic light detection using YOLOv3/v5 with computer vision | `YOLO` `Object Detection` `Jupyter` |
 
 ### 🌐 Web Development & IoT
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Dactilus](https://github.com/daviagrm/Dactilus) | Frontend para detecção de linguagem de sinais · Sign language detection frontend | `JavaScript` `Web APIs` `UI/UX` |
-| [monitoramento-estufa](https://github.com/daviagrm/monitoramento-estufa) | Sistema de monitoramento de estufa inteligente · Smart greenhouse monitoring system | `TypeScript` `Node.js` `IoT` `Dashboard` |
-| [estufa-backend](https://github.com/daviagrm/estufa-backend) | API backend para sistema IoT de estufa · IoT greenhouse backend API | `Node.js` `REST API` `IoT` |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [Dactilus](https://github.com/daviagrm/Dactilus) | Frontend application for real-time sign language detection | `JavaScript` `Web APIs` `UI/UX` |
+| [monitoramento-estufa](https://github.com/daviagrm/monitoramento-estufa) | Complete smart greenhouse monitoring system with dashboard and real-time analytics | `TypeScript` `Node.js` `IoT` `Dashboard` |
+| [estufa-backend](https://github.com/daviagrm/estufa-backend) | Backend API for IoT greenhouse monitoring system | `Node.js` `REST API` `IoT` |
 
 ### 🔄 Automation
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [n8nworkflow](https://github.com/daviagrm/n8nworkflow) | Workflow automatizado para extração de código e integração com LLMs · Automated workflow for code extraction and LLM integration | `n8n` `Automation` `LLM` |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [n8nworkflow](https://github.com/daviagrm/n8nworkflow) | Automated workflow for code extraction and LLM integration | `n8n` `Automation` `LLM` |
 
----
-
-## Estatísticas · GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=daviagrm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviagrm&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-*"Transformando dados em soluções · Turning data into solutions"*
-
-</div>
